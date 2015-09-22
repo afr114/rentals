@@ -26,7 +26,11 @@
   "node": false,
   "browser": false,
   "boss": true,
+<<<<<<< HEAD
   "curly": true,
+=======
+  "curly": false,
+>>>>>>> 91e6da6ddd88b6023fe9cd79dbbdcd0c549930ac
   "debug": false,
   "devel": false,
   "eqeqeq": true,
@@ -47,6 +51,10 @@
   "strict": false,
   "white": false,
   "eqnull": true,
+<<<<<<< HEAD
   "esnext": true,
   "unused": true
+=======
+  "esnext": true
+>>>>>>> 91e6da6ddd88b6023fe9cd79dbbdcd0c549930ac
 }
